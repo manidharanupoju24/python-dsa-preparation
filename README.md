@@ -1,2 +1,2 @@
 # python-dsa-preparation
-Collection of everything related to coding interviews
+This Repo is the collection of everything related to my preparation for coding interviews
